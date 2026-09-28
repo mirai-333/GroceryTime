@@ -1,0 +1,30 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+
+# IDE generated
+*.csproj
+*.sln
+.vsconfig
+
+# Builds
+*.apk
+
+# Crash files
+mono_crash*
+
+# Large / unnecessary assets
+Assets/5_Model/
+Assets/6_Audio/
+Assets/Textures/
+Assets/Animated Hands/
+Assets/Fantasy Skybox FREE/
+Assets/Samples/
+Assets/TextMesh Pro/
+Assets/TutorialInfo/
+Assets/_Recovery/
+.utmp/
+.vs/

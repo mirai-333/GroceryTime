@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 61bcd8dff776a204fa283530a977f2b9
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: actifed.002
+    second: {fileID: 2100000, guid: 83f01cb412d32484c9cf6d7a831ef624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar soap 1.003
+    second: {fileID: 2100000, guid: e4c873f3c3a223e4188eddf4a6f5eddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar soap 1.004
+    second: {fileID: 2100000, guid: fb27e22311df2764cb92d4bf1c1f3c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar soap 1.006
+    second: {fileID: 2100000, guid: 91bbf2f8d782ffa4490b5dec6e19b1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar soap 1.007
+    second: {fileID: 2100000, guid: 64a439fc0a731ff4d9b20c0b0c09845f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar soap 1.011
+    second: {fileID: 2100000, guid: 57a5ef0c7b09ffe4085929cab286d7ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: betadine.001
+    second: {fileID: 2100000, guid: 17dd2238d561e984d854f686ede684bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluberry jam.001
+    second: {fileID: 2100000, guid: 524c5507fdb6ba94880505eeed57e407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze 2.001
+    second: {fileID: 2100000, guid: 66947a2c7e0e6c64a811e35d22bf3daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze blue.001
+    second: {fileID: 2100000, guid: 27639f1a601c7ab43b507d63a85b8cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze purple.001
+    second: {fileID: 2100000, guid: 4198387332701384f9428a932f91498b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze purple.004
+    second: {fileID: 2100000, guid: 4198387332701384f9428a932f91498b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze red.001
+    second: {fileID: 2100000, guid: 75a1a5ded8a61a548a0f96a2b92ee771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze red.002
+    second: {fileID: 2100000, guid: 75a1a5ded8a61a548a0f96a2b92ee771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breeze.001
+    second: {fileID: 2100000, guid: a51682c6319cd424c9ead7d10f140b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown.001
+    second: {fileID: 2100000, guid: ff7dad37a09c9824f91fe4be996c0f51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chips ahoy.001
+    second: {fileID: 2100000, guid: 457379a802efd964cbb5776a2d84d2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chocolate.001
+    second: {fileID: 2100000, guid: d3fcdd2135124624f947e7116bc29a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cola.003
+    second: {fileID: 2100000, guid: 3882ecc66844b35469a3cf83a24c5147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cola.007
+    second: {fileID: 2100000, guid: 1ba61a3af5494394eb4d967ed4b8836a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cola.008
+    second: {fileID: 2100000, guid: 5b7286a13b66ce341b5bd617d191365e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cola.009
+    second: {fileID: 2100000, guid: 3882ecc66844b35469a3cf83a24c5147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corn flakes.001
+    second: {fileID: 2100000, guid: b41e942f8405cf34bafd1b6c3aed9840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doritos .001
+    second: {fileID: 2100000, guid: c29ebe530ed7ff64c8a5471370d723a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doritos cr.001
+    second: {fileID: 2100000, guid: 5440773d7985f79439a5022a8cd8ada5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doritos p.001
+    second: {fileID: 2100000, guid: b9ffccdc80a44124d8cf6844d9b3b755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dove bs.001
+    second: {fileID: 2100000, guid: ec742c1a3b41c81448a28c94cd7e74df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dove soap.001
+    second: {fileID: 2100000, guid: 92f589a7497c9f84b9c7e826842001bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: egg.001
+    second: {fileID: 2100000, guid: 3b05dcb03a3284246a8b06477c61e777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fanta.002
+    second: {fileID: 2100000, guid: 3b4555178bb350d4091bd86a73f04190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fanta.004
+    second: {fileID: 2100000, guid: 018ffc4139a96c2418df71025f2d420a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: farmfresh.001
+    second: {fileID: 2100000, guid: 061a36fac83ff674fb752d5405d79a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: febreze back.001
+    second: {fileID: 2100000, guid: dd1f6dfee5d017a4c914059a67cb3be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: febreze front.001
+    second: {fileID: 2100000, guid: 22439bb0e00fa37418f99a98b92ca4a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: febreze side.001
+    second: {fileID: 2100000, guid: ef59d77f97778a049baf4be8c300bf9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fruit loops.001
+    second: {fileID: 2100000, guid: c9434b19ed8fd2d46be052f8bd312fa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: haagendazs.001
+    second: {fileID: 2100000, guid: 83b0f9132da55b746b00ad4080886333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hansaplast.001
+    second: {fileID: 2100000, guid: 8a48ed3845100da468957b68b941b016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: haribo gold.001
+    second: {fileID: 2100000, guid: d298650440f8411418f5f51b45c0b733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: haribo gold.005
+    second: {fileID: 2100000, guid: 35b45f3213e10c245a409f13d8e35c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: haribo gold.006
+    second: {fileID: 2100000, guid: eca70a1e5ecbde44db8647d44464e3a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: haribo.001
+    second: {fileID: 2100000, guid: b20ac5346920b2a42970f4f7c95399bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ic mini 2.001
+    second: {fileID: 2100000, guid: a8709c6dbf1b9ae499c3defd6804ffb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ic minis.003
+    second: {fileID: 2100000, guid: 52600c91c9cb8674992e346520abd3f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6SG.006
+    second: {fileID: 2100000, guid: 598455fbb022e4f4e8e30131bcaf76dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lays more.001
+    second: {fileID: 2100000, guid: d24940e57d4cc5f488af16de12255f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lays.001
+    second: {fileID: 2100000, guid: 439c3d52eefb51242829625a439f04eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maggi.001
+    second: {fileID: 2100000, guid: d1e09f2158287fe478c023dfee317aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magiclean.002
+    second: {fileID: 2100000, guid: 01597f897854bc543b1e3692c3f0b881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat10.001
+    second: {fileID: 2100000, guid: e90b9d5f4450bee43aef2b65782bf6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat10.002
+    second: {fileID: 2100000, guid: e90b9d5f4450bee43aef2b65782bf6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat10.003
+    second: {fileID: 2100000, guid: e90b9d5f4450bee43aef2b65782bf6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat10.004
+    second: {fileID: 2100000, guid: e90b9d5f4450bee43aef2b65782bf6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat12.003
+    second: {fileID: 2100000, guid: 0c8532d51aafbc04ab7524de30259bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat12.004
+    second: {fileID: 2100000, guid: 0c8532d51aafbc04ab7524de30259bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat12.006
+    second: {fileID: 2100000, guid: 0c8532d51aafbc04ab7524de30259bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat12.007
+    second: {fileID: 2100000, guid: 0c8532d51aafbc04ab7524de30259bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monster.001
+    second: {fileID: 2100000, guid: 3d9398961a62eca4bbcfaa8d70b47cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw cc blue.001
+    second: {fileID: 2100000, guid: 5f707ca814b449a4a8e9198340340f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw cc.001
+    second: {fileID: 2100000, guid: 5f707ca814b449a4a8e9198340340f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw choco.002
+    second: {fileID: 2100000, guid: 15bcb65fde72bfe4a9af49cda877cf27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw choco.003
+    second: {fileID: 2100000, guid: 15bcb65fde72bfe4a9af49cda877cf27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw green.001
+    second: {fileID: 2100000, guid: b043f36848afda84fb63fd105a930eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw pandan.002
+    second: {fileID: 2100000, guid: c5885c3bcc440bd4eaadc60da405c39f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw pandan.003
+    second: {fileID: 2100000, guid: 949b1a2265f766c4196195e53ec3a4b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mw purple.001
+    second: {fileID: 2100000, guid: a550a17d254114c43b76b139c5d700d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oatside.001
+    second: {fileID: 2100000, guid: f83ee87da3fa1324f9b4fcf4e96f8029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oreo blue.001
+    second: {fileID: 2100000, guid: 8a4e894d278c0f24db0fda9378651a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oreo.001
+    second: {fileID: 2100000, guid: bb86a2a3c16ba5e4a861f755f66b35ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyo g.006
+    second: {fileID: 2100000, guid: da79c019a2dc27e4992fc76936f45add, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyo g.007
+    second: {fileID: 2100000, guid: c680b4df556f41548b2d8f9a47d79700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyo g.008
+    second: {fileID: 2100000, guid: cb8f329779b73074292543ef149e4af9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyo y.002
+    second: {fileID: 2100000, guid: 60b2ca4905471294fb1417f521c10dbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyo y.004
+    second: {fileID: 2100000, guid: 2f909e93db8c7ea41950afa5337e3b44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyo y.006
+    second: {fileID: 2100000, guid: 7957d7a572ff3d94cb5f0020a87c51e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyoshi.006
+    second: {fileID: 2100000, guid: 653b6b7d37a501e4bae10e01940ac9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyoshi.007
+    second: {fileID: 2100000, guid: 653b6b7d37a501e4bae10e01940ac9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oyoshi.008
+    second: {fileID: 2100000, guid: 653b6b7d37a501e4bae10e01940ac9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pandaol.001
+    second: {fileID: 2100000, guid: c50766fbfba6fb140ab685d21e76f79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1SG.002
+    second: {fileID: 2100000, guid: d5eb72acd24477b4c88f1a5c3aa6e5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pods.001
+    second: {fileID: 2100000, guid: b99db7d2db641ce4399e758e8359f95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pop mie.001
+    second: {fileID: 2100000, guid: bb97c2c794de7564b8ddf172a035a10b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp 1.001
+    second: {fileID: 2100000, guid: 2080844390cfa74479649ac65bd3787c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pp.001
+    second: {fileID: 2100000, guid: 2080844390cfa74479649ac65bd3787c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sampo p.001
+    second: {fileID: 2100000, guid: 54dd1e161f0bba74abc2a1e9867cba1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shin ramen.001
+    second: {fileID: 2100000, guid: 6913577b34175ba47be05748d8a263f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoku soap.001
+    second: {fileID: 2100000, guid: 13d6ffdd3184bba49b2ec1f0d2f8fa4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoku soap.002
+    second: {fileID: 2100000, guid: 07820c4bf88905946ba56bf9493dd74e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoku soap.004
+    second: {fileID: 2100000, guid: ad65b5238918b5c49abf3a04697076e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skittles.001
+    second: {fileID: 2100000, guid: 9341e7c7ac468c644bd880b201bd86cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soju a.001
+    second: {fileID: 2100000, guid: ad0eea590248f084f94221d101029085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soju a.003
+    second: {fileID: 2100000, guid: 8ebe51c550c932b4ea4988e130d2d7f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soup.001
+    second: {fileID: 2100000, guid: 5b9dee98caecbfd488122337a781b10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spk.001
+    second: {fileID: 2100000, guid: f5d775e71a9c0d94caf3f32459725792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spritzer.002
+    second: {fileID: 2100000, guid: 6b222e627ed324348917c6fdff483965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strawberry jam.001
+    second: {fileID: 2100000, guid: 066825afa00aa334f9bfa677ab12374d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sunlight lime.002
+    second: {fileID: 2100000, guid: 744f1f72534c73a49b25e3aedf3910d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sunlight lime.003
+    second: {fileID: 2100000, guid: b68b627a2a7f46c4bb722595153e36fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tiger.001
+    second: {fileID: 2100000, guid: 406ff3798a4733747be75ffc44028c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tissue.001
+    second: {fileID: 2100000, guid: 8d66bd1ffe4937744bbcb4c0d1b7b8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toilet paper.001
+    second: {fileID: 2100000, guid: 2be30c70e4ca92042a7f06fec15d988f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tub ic.002
+    second: {fileID: 2100000, guid: e96dbb728c4c0c84083b643bd89ca621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tub ic.003
+    second: {fileID: 2100000, guid: 5da4284a9f9823b45a7f6a0d41da3263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ufo ramen 2.001
+    second: {fileID: 2100000, guid: e83c1dd34e1ca2f438cdb04f16580a28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ufo ramen.001
+    second: {fileID: 2100000, guid: 2bd1fce6e81d4f64ca74a5fb561c0845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yogurt.002
+    second: {fileID: 2100000, guid: a72ffbb016bcc5446bad8f4ef6b5fe16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yogurt.003
+    second: {fileID: 2100000, guid: a071c07869ce7a342ba122108c04ebde, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
